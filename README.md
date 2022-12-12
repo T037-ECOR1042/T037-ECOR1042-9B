@@ -11,28 +11,23 @@ This program allows users to develop websites and software, automate tasks and  
 For Windows:
 Python 10 is available in the Microsoft Store on Windows 8 and Windows Server 2012, or higher. For older versions of Windows:
 
-1. Go to Python's official website (Python.org) and download the installer package
-   for Windows (that is compatiable with your computer).
+1. Go to Python's official website (Python.org) and download the installer package for Windows (that is compatiable with your computer).
    
-2. Once it's finished, double-click the package to start the installation process.    You can follow the on-screen instructions in the Python installer for this
-   step.
+2. Once it's finished, double-click the package to start the installation process. You can follow the on-screen instructions in the Python installer for this step.
 
 For Mac OS: 
 
-1. Go to Python's official website (Python.org) and download the installer package
-   for MacOS. Wait for the download to complete.
+1. Go to Python's official website (Python.org) and download the installer package for MacOS. Wait for the download to complete.
    
-2. Once it's finished, double-click the package to start the installation process.    You can follow the on-screen instructions in the Python installer for this
-   step.
+2. Once it's finished, double-click the package to start the installation process. You can follow the on-screen instructions in the Python installer for this step.
    
-3. Once the installation is complete, the installer will automatically open 
-   Python's installation directory in a new Finder window.
+3. Once the installation is complete, the installer will automatically open Python's installation directory in a new Finder window.
    
 **Note:** You will need to install Matplotlib, NumPy and SciPy in Python in order to run specific tasks in the script. The instructions on how to install these libraries are as follows:
 
 For Windows:
 
-1. Make sure Python and pip are preinstalled on your system. To install pip, you
+1. Make sure Python and pip are preinstalled on your system. To install pip, you   
    should type the following in the command prompt:
    `python -m pip install -U pip`
 
@@ -60,7 +55,7 @@ For Windows:
    displayed.
    
  3. Install NumPy.
-    NumPy can also be installed using pip Type the following command in the  
+    NumPy can also be installed using pip Type the following command in the      
     command prompt to install NumPy on your system.
     `pip install numpy`
     
@@ -95,10 +90,33 @@ Steps 2, 3, and 4 as in Windows.
 
 **USAGE**
 ---------
+This software 
+
+
+**CREDITS**
+-----------
+Jinan Kazi:
+-Lab 1: Equal contribution to the group for the task. 
+-Lab 2: Equal contribution to the group for the task.
+-Lab 3: Function 2. (did not run)
+
+Yonathan Gossa:
+-Lab 1: Equal contribution to the group for the task.
+-Lab 2: Equal contribution to the group for the task.
+-Lab 3: Fucntions 1, 2 and 4.
+-Lab 4: Unit testing for all the functions.
+-Lab 5: Function 2
+-Lab 6: Max and min functions
+
+Serena Marzouca:
+-Lab 1: Equal contribution to the group for the task.
+-Lab 2: Equal contribution to the group for the task.
+-Lab 3: Function 3.
+-Lab 5: Bubble sort. (did not run)
+-Lab 6: ReadMe file and batch user interface
 
 
 
-   
    
 
 
